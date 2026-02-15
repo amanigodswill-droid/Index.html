@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Green Energy Technical Report</title>
+</head>
+<body>
+
+    <header>
+        <h1>Global Green Energy Report 2026</h1>
+        <ol>
+            <li><a href="#summary">Executive Summary</a></li>
+            <li><a href="#data">Comparison Data</a></li>
+        </ol>
+
+        <nav>
+            </nav>
+    </header>
+
+    <main>
+        <article>
+            <section id="summary">
+                <h2>Executive Summary</h2>
+                </section>
+
+            <section id="data">
+                <h2>Comparison Data</h2>
+                <caption>Comparison of Renewable Energy Sources
+                    <thead>ENERGY SOURCE</thead>
+                        <tbody>
+                        <tr>Solar</tr>
+                        <tr>Wind</tr>
+                        <tr>Geothermal</tr>
+                        </tbody>
+                        <thead>EFFICIENCY</thead>
+                        <tbody>
+                            <td>22%</td>
+                            <td>45%</td>
+                            <td>90%</td>
+                        </tbody>
+                        <thead>GROWTH 2025</thead>
+                        <tbody>
+                            <td>+15%</td>
+                            <td>+10%</td>
+                            <td>+2%</td>
+                        </tbody>
+                        <tfoot>Data Source: International Renewable Energy Agency (IRENA)</tfoot>                              
+                </caption>
+            
+                </section>
+        </article>
+    </main>
+
+    <footer>
+        <div>Contact: <a href="mailto:reports@greenenergy.org">Email the Author</a></div>
+        <ul>
+            <li><a href="#summary">View Executive Summary</a></li>
+            <li><a href="#data">View Comparison Data</a></li>
+        </ul>
+    </footer>
+
+</body>
+</html>
